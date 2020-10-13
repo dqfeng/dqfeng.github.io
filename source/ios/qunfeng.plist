@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.110.127:8080/qunfeng/anchorplatform.ipa</string>
+					<string>http://192.168.113.164:8080/qunfeng/anchorplatform.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.110.127:8080/qunfeng/icon.png</string>
+					<string>http://192.168.113.164:8080/qunfeng/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.110.127:8080/qunfeng/icon.png</string>
+					<string>http://192.168.113.164:8080/qunfeng/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
